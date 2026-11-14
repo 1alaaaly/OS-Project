@@ -13,7 +13,7 @@ A Bash tool that audits a directory and creates backups of readable files.
 2. Navigate to the project folder:
 
 ```bash
-cd starter
+cd auditor_Alaa_Ali_Asmaa_Khaled
 ```
 
 3. Run the script with the directory:
